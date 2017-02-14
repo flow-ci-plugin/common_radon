@@ -15,10 +15,10 @@ public: true
 # clone_in_docker: false
 
 outputs:
-  - FLOW_RADON_CC_LOG_PATH
-  - FLOW_RADON_RAW_LOG_PATH
-  - FLOW_RADON_MI_LOG_PATH
-  - FLOW_FILE_RADON_CC_FILE_COUNT
-  - FLOW_FILE_RADON_CC_WARN_COUNT
+  - name: FLOW_RADON_CC_LOG_PATH
+  - name: FLOW_RADON_RAW_LOG_PATH
+  - name: FLOW_RADON_MI_LOG_PATH
+  - name: FLOW_FILE_RADON_CC_FILE_COUNT
+  - name: FLOW_FILE_RADON_CC_WARN_COUNT
 
 script_path: ./run.sh
