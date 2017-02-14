@@ -1,6 +1,6 @@
 name: radon_plugin
 version: 0.0.1
-language: pathon
+language: python
 description: A python anlayzer to check python files quality
 tags:
  - python
