@@ -19,6 +19,6 @@ outputs:
   - name: FLOW_RADON_RAW_LOG_PATH
   - name: FLOW_RADON_MI_LOG_PATH
   - name: FLOW_FILE_RADON_CC_FILE_COUNT
- # - name: FLOW_FILE_RADON_CC_WARN_COUNT
+  - name: FLOW_FILE_RADON_CC_WARN_COUNT
 
 script_path: ./run.sh
