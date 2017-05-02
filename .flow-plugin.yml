@@ -1,7 +1,7 @@
 name: radon_plugin
 version: 0.0.1
 language: python
-description: A python anlayzer to check python files quality
+description: "本插件是检查和分析python代码质量"
 tags:
  - python
  - radon
